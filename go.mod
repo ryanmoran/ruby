@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/ruby
+module github.com/ryanmoran/ruby
 
 go 1.14
 

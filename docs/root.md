@@ -8,7 +8,7 @@ menu:
 
 # Ruby Buildpack
 
-The [Paketo Ruby Buildpack](https://github.com/paketo-buildpacks/ruby) supports
+The [Paketo Ruby Buildpack](https://github.com/ryanmoran/ruby) supports
 several popular configurations for Ruby apps.
 
 To build a sample app locally with this buildpack using the `pack` CLI, run
@@ -34,7 +34,7 @@ The Ruby Paketo Buildpack supports several versions of
 [MRI](https://www.ruby-lang.org), [Bundler](https://bundler.io/), and common
 Ruby webservers and task runners.  For more details on the specific versions
 supported in a given buildpack version, see the [release
-notes](https://github.com/paketo-buildpacks/ruby/releases/latest).
+notes](https://github.com/ryanmoran/ruby/releases/latest).
 
 ## Specifying a Ruby Version
 
